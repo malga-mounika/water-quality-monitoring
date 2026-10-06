@@ -15,6 +15,7 @@ env/
 
 # Python test/cache
 .pytest_cache/
+
 .mypy_cache/
 
 # Logs
